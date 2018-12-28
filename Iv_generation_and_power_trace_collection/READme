@@ -1,0 +1,7 @@
+Run Iv_generation_code first and copy the generated ivs.txt file to get_power_traces
+Then, Run the MatLab code to generate the power traces
+
+Note: The microcontroller must be loaded with trivium bitsream and the osciloscope 
+      also must be connected to obtain the traces
+
+
